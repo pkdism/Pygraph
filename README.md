@@ -2,7 +2,6 @@
 
 ##Tweet.py##
 Tweet from command line.
->python tweet.py "Brock Lesnar vs Goldberg at Survivor Series. Can't wait. #Goldberg #BrockLesnar #WWE"
 
 Prerequisites:
 
@@ -18,19 +17,6 @@ Dependencies:
 
 Run using following command:
 >python tweet.py "Your Tweet"
-
-##Trends.py##
-Get recent top twitter trends for worldwide.
-
-Prerequisites: 
-
->Same as above
-
-Dependencies:
-
->Same as above
-
-Run in Python Shell.
 
 ##Get_tweet.py##
 Get latest tweets containing a text phrase directly to command line.

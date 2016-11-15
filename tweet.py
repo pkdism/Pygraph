@@ -1,6 +1,5 @@
 from sys import argv
 import tweepy
-from textblob import TextBlob
 
 consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'

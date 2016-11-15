@@ -13,8 +13,6 @@ Prerequisites:
 
 Dependencies:
 
->pip install textblob
-
 >pip install tweepy
 
 Run using following command:

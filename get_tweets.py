@@ -1,5 +1,5 @@
+from sys import argv
 import tweepy
-from textblob import TextBlob
 
 consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
@@ -14,7 +14,7 @@ api = tweepy.API(auth)
 
 word = input("Enter search term: ")
 
-tweets = api.search(word)
+script, word = argv
 
 lines = []
 c = 1

@@ -2,7 +2,7 @@
 
 ##Tweet.py##
 Tweet from command line.
->python tweet.py "Brock Lesnar vs Goldberg at Survivor Series. Can't wait. #Goldberg #BrockLesnar #WWE
+>python tweet.py "Brock Lesnar vs Goldberg at Survivor Series. Can't wait. #Goldberg #BrockLesnar #WWE"
 
 Prerequisites:
 
